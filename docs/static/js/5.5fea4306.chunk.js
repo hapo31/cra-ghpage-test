@@ -1,2 +1,0 @@
-(this["webpackJsonpcra-test"]=this["webpackJsonpcra-test"]||[]).push([[5],{30:function(t,e,s){"use strict";s.r(e);var c=s(1);e.default=function(){return Object(c.jsx)("h1",{children:"Index"})}}}]);
-//# sourceMappingURL=5.5fea4306.chunk.js.map
