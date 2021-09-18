@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/About.tsx"],"names":["About"],"mappings":"6HAIeA,UAJD,WACZ,OAAO","file":"static/js/3.a0e0ed26.chunk.js","sourcesContent":["const About = () => {\n  return <h1>About</h1>;\n};\n\nexport default About;\n"],"sourceRoot":""}
