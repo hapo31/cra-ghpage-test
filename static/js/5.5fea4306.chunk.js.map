@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Index.tsx"],"names":["Index"],"mappings":"6HAIeA,UAJD,WACZ,OAAO","file":"static/js/5.5fea4306.chunk.js","sourcesContent":["const Index = () => {\n  return <h1>Index</h1>;\n};\n\nexport default Index;\n"],"sourceRoot":""}
